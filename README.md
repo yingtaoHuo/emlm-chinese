@@ -9,4 +9,4 @@ python train.py
 会有30个epoch的训练过程，相较于预训练，时间会大为缩短，大概半天。结束后，在测试集的结果会自动生成
 ## 目前支持的数据集
 在NLPCC 2013数据集上达到目前SOTA效果
-预训练所需的数据需要自己下载[web_zh_2019](https://pan.baidu.com/share/init?surl=17MVHVtDbvDx30V6mxxSXg)，当然也可以换其他相关数据集
+预训练所需的数据需要自己下载[web_zh_2019](https://pan.baidu.com/share/init?surl=17MVHVtDbvDx30V6mxxSXg)，提取码为2rk6，当然也可以换其他相关数据集
